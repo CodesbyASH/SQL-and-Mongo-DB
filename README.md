@@ -1,8 +1,8 @@
- SQL and Mongo-DB
-
+** SQL and Mongo-DB**
+**
  Data Infrastructure Engineering (MySQL, Python & MongoDB)
-
-This project showcases a comprehensive project developed as part to demonstrate real-world database engineering skills, involving SQL stored procedures, functions, triggers, Python scripting, and MongoDB integration.
+**
+This project showcases a comprehensive project developed as part of demonstrating real-world database engineering skills, involving SQL stored procedures, functions, triggers, Python scripting, and MongoDB integration.
 This project's main goal was to integrate relational databases (MySQL), programmable data manipulation (Python), and NoSQL logging (MongoDB) in order to replicate a real-world data infrastructure system. It was created to demonstrate how several technologies may cooperate to effectively and securely store, update, and audit data.
 ---
 
